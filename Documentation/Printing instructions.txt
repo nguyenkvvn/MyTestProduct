@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Please do not print this sample text file.
 
 
 Okay, but this is the last time
+=======
+Please do print this sample text file, but only once.
+>>>>>>> 1d8b7dc78ff823ab922f7bf2e635cbae10359386
